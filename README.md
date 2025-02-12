@@ -1,10 +1,10 @@
 # Bem-vindo ao meu Perfil!
 
-👋 Olá! Sou **Natan**, estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Desenvolvimento Back-End**. Este repositório serve como uma vitrine para os meus projetos, habilidades e interesses.
+👋 Olá! Sou **Natan**, estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Desenvolvimento Back-End/ Front-End**. Este repositório serve como uma vitrine para os meus projetos, habilidades e interesses.
 
 ## 📚 Sobre Mim
 - **Curso**: Análise e Desenvolvimento de Sistemas (3º Semestre).
-- **Interesse**: Desenvolvimento Back-End.
+- **Interesse**: Desenvolvimento Back-End & Front-End.
 - **Atualmente aprendendo**: Python, SQL, e modelagem de bancos de dados.
 
 ## 🚀 Projetos em Destaque

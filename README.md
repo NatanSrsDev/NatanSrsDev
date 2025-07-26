@@ -17,18 +17,24 @@
 
 ### 📚 Sobre Mim
 - 🎓 Curso: Análise e Desenvolvimento de Sistemas
-- 💻 Interesse: Desenvolvimento Back-End
+- 💻 Interesse: Desenvolvimento Back-End e Front-End
 
 ###
 
 ### 🛠️ Tecnologias
-**Linguagens:** Python, SQL, PHP, Java, Spring Boot  
+**Linguagens:** Python, SQL, PHP, Java, Spring Boot, HTML, CSS, JavaScript  
 **Banco de Dados:** MySQL, SQLite  
 **Ferramentas:** XAMPP, phpMyAdmin, Git
 
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />

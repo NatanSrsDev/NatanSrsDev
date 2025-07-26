@@ -1,6 +1,6 @@
 <h2 align="center">👋 Bem-vindo ao meu Perfil!</h2>
 
-<p align="center">Sou Natan, estudante de Análise e Desenvolvimento de Sistemas, com foco em Desenvolvimento Back-End e Front-End. Este repositório é uma vitrine dos meus projetos, habilidades e interesses.</p>
+<p align="center">Sou Natan, estudante de Análise e Desenvolvimento de Sistemas, com foco em Desenvolvimento Back-End. Este repositório é uma vitrine dos meus projetos, habilidades e interesses.</p>
 
 ###
 
@@ -15,7 +15,7 @@
 
 ### 📚 Sobre Mim
 - 🎓 Curso: Análise e Desenvolvimento de Sistemas
-- 💻 Interesse: Desenvolvimento Back-End e Front-End
+- 💻 Interesse: Desenvolvimento Back-End
 
 ###
 

@@ -20,7 +20,7 @@
 ###
 
 ### 🛠️ Tecnologias
-**Linguagens:** Python, SQL, PHP, Java, Spring Boot, HTML, CSS, JavaScript  
+**Linguagens:** Java, Python, SQL, PHP, Spring Boot, HTML, CSS, JavaScript  
 **Banco de Dados:** MySQL, SQLite  
 **Ferramentas:** XAMPP, phpMyAdmin, Git
 

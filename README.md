@@ -1,65 +1,95 @@
-<h2 align="center">👋 Bem-vindo ao meu Perfil!</h2>
+<h1 align="center">Olá, eu sou o Natan 👋</h1>
 
-<p align="center">Sou Natan, estudante de Análise e Desenvolvimento de Sistemas, com foco em Desenvolvimento Back-End. Este repositório é uma vitrine dos meus projetos, habilidades e interesses.</p>
+<p align="center">
+🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
+💻 Focado em Desenvolvimento Back-End <br>
+🚀 Em busca da primeira oportunidade como Desenvolvedor Back-End
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NatanSrsDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NatanSrsDev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Linguagens mais usadas" />
-</div>
+## 🚀 Sobre mim
 
-###
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas
+- 💻 Estudando Java, Python, SQL e PHP
+- 🌱 Atualmente aprendendo Programação Orientada a Objetos e Java
+- 📚 Sempre buscando evoluir através de projetos práticos
+- 🎯 Objetivo: atuar como Desenvolvedor Back-End
 
-###
+---
 
-### 📚 Sobre Mim
-- 🎓 Curso: Análise e Desenvolvimento de Sistemas
-- 💻 Interesse: Desenvolvimento Back-End
+## 🛠️ Tecnologias
 
-###
+### Linguagens
 
-### 🛠️ Tecnologias
-**Linguagens:** Java, Python, SQL, PHP, Spring Boot, HTML, CSS, JavaScript  
-**Banco de Dados:** MySQL, SQLite  
-**Ferramentas:** XAMPP, phpMyAdmin, Git
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+</p>
 
-###
+### Banco de Dados
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-</div>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/>
+</p>
 
-###
+### Ferramentas
 
-### 📫 Contato
-<div align="left">
-  <a href="mailto:natanrods@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/natansrs-dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
-  </a>
-</div>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+</p>
 
-###
+---
 
-<br clear="both">
+## 📊 Estatísticas
 
-<img src="https://raw.githubusercontent.com/NatanSrsDev/NatanSrsDev/output/snake.svg" alt="Snake animation" />
+<p align="center">
 
-###
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NatanSrsDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanSrsDev&layout=compact&theme=dracula"/>
+
+</p>
+
+---
+
+## 🔥 Sequência de Contribuições
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=NatanSrsDev&theme=dracula"/>
+
+</p>
+
+---
+
+## 📫 Contato
+
+<p>
+
+<a href="mailto:natanrods@hotmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/natansrs-dev/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/NatanSrsDev/NatanSrsDev/output/snake.svg"/>
+
+</p>

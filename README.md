@@ -52,14 +52,14 @@
 ## 📊 Estatísticas
 <p align="center">
 
-<img 
+<img
 height="170"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NatanSrsDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+src="https://github-readme-stats.vercel.app/api?username=NatanSrsDev&show_icons=true&theme=dracula"
 />
 
-<img 
+<img
 height="170"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NatanSrsDev&layout=compact&theme=dracula&langs_count=8"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanSrsDev&layout=compact&theme=dracula"
 />
 
 </p>

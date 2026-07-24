@@ -47,22 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40"/>
 </p>
 
----
 
-## 📊 Estatísticas
-<p align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=NatanSrsDev&show_icons=true&theme=dracula"
-/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanSrsDev&layout=compact&theme=dracula"
-/>
-
-</p>
 ---
 
 ## 📫 Contato

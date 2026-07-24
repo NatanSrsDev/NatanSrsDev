@@ -50,21 +50,19 @@
 ---
 
 ## 📊 Estatísticas
-
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=NatanSrsDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"
-    alt="GitHub Stats"
-  />
 
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanSrsDev&layout=compact&theme=dracula&langs_count=8&cache_seconds=1800"
-    alt="Top Languages"
-  />
+<img 
+height="170"
+src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NatanSrsDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+/>
+
+<img 
+height="170"
+src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NatanSrsDev&layout=compact&theme=dracula&langs_count=8"
+/>
+
 </p>
-
 ---
 
 ## 📫 Contato
